@@ -1,0 +1,5 @@
+variable: es como un sobre o una cajita en la que tenemos varios papelitos con mensajes, esta se puede abrir o cerrar y añadir nuevos mensajes
+strings: es como un mensaje de texto que se utiliza para definir un objeto mediamto palabras que estan representadas entre "" o '' y en el puede estar impreso tanto letras, como numeros o simbolos (*!{}_-, etc).
+Funciones: algoritmo: es una orden que le damos a la compu, pero para que esta se ejecute correctamente hay una lista de pasos que debe seguir antes de accionar la orden para que esta sea correcta eso es algoritmo. Return: es la respuesta que nos devuelve la compu cuando le damos la orden de una variable.
+Declaraciones if: es una manera de decirle a la compu que si cuando le damos una orden, esta no funciona como lo esperabamos tiene otra opcion de devolvernos la misma.
+Valores booleanos: "true" significa verdadero y "false" falso esto quiere decir que cuando le damos una variable a la compu le ordenamos la opcion de retornarnos verdadero o falso segun las ordenes que le brindemos a la  misma.
